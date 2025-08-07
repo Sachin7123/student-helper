@@ -10,7 +10,7 @@ A React app using OpenAI GPT-3.5 to generate lesson plans for preschool topics.
 
 ## Live Demo
 
-[https://ai-student-helper.vercel.app](#)
+[https://student-helper.vercel.app](#)
 
 ## How to Use
 
