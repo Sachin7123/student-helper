@@ -10,7 +10,7 @@ A React app using AI to generate lesson plans for preschool topics.
 
 ## Live Demo
 
-[https://vercel.com/sachin-parmars-projects/student-helper](#)
+[https://student-helper-jet.vercel.app/](#)
 
 ## How to Use
 
